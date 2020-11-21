@@ -1,0 +1,12 @@
+{
+  "name": "OnBoardingUI",
+  "displayName": "OnBoardingUI",
+  "expo": {
+    "name": "OnBoardingUI",
+    "slug": "OnBoardingUI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
